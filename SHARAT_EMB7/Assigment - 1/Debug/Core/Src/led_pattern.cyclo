@@ -1,0 +1,4 @@
+../Core/Src/led_pattern.c:24:6:led_init	1
+../Core/Src/led_pattern.c:70:6:pattern1	1
+../Core/Src/led_pattern.c:119:6:patern2	3
+../Core/Src/led_pattern.c:197:6:patern3	3

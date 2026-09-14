@@ -1,0 +1,4 @@
+../Core/Src/led_pattern.c:22:6:led_init	4	static
+../Core/Src/led_pattern.c:68:6:pattern1	8	static
+../Core/Src/led_pattern.c:117:6:patern2	24	static
+../Core/Src/led_pattern.c:195:6:patern3	24	static
