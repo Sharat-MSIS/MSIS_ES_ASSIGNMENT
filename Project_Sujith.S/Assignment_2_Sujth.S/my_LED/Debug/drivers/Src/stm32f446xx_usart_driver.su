@@ -1,0 +1,17 @@
+../drivers/Src/stm32f446xx_usart_driver.c:39:17:RCC_GetPLLOutputClock	32	static
+../drivers/Src/stm32f446xx_usart_driver.c:69:17:RCC_GetPCLK1Value	24	static
+../drivers/Src/stm32f446xx_usart_driver.c:114:17:RCC_GetPCLK2Value	24	static
+../drivers/Src/stm32f446xx_usart_driver.c:157:6:USART_PeriClockControl	16	static
+../drivers/Src/stm32f446xx_usart_driver.c:231:6:USART_SetBaudRate	40	static
+../drivers/Src/stm32f446xx_usart_driver.c:294:6:USART_Init	24	static
+../drivers/Src/stm32f446xx_usart_driver.c:400:6:USART_DeInit	16	static
+../drivers/Src/stm32f446xx_usart_driver.c:439:6:USART_PeripheralControl	16	static
+../drivers/Src/stm32f446xx_usart_driver.c:459:9:USART_GetFlagStatus	16	static
+../drivers/Src/stm32f446xx_usart_driver.c:482:6:USART_ClearFlag	16	static
+../drivers/Src/stm32f446xx_usart_driver.c:502:6:USART_SendData	32	static
+../drivers/Src/stm32f446xx_usart_driver.c:549:6:USART_ReceiveData	32	static
+../drivers/Src/stm32f446xx_usart_driver.c:602:9:USART_SendDataIT	32	static
+../drivers/Src/stm32f446xx_usart_driver.c:630:9:USART_ReceiveDataIT	32	static
+../drivers/Src/stm32f446xx_usart_driver.c:660:6:USART_IRQConfig	24	static
+../drivers/Src/stm32f446xx_usart_driver.c:718:6:USART_IRQHandling	32	static
+../drivers/Src/stm32f446xx_usart_driver.c:930:28:USART_ApplicationEventCallback	16	static

@@ -1,0 +1,6 @@
+"./Src/004button_interrupt.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f446retx.o"
+"./drivers/Src/stm32f446xx_gpio_driver.o"
+"./drivers/Src/stm32f446xx_usart_driver.o"
